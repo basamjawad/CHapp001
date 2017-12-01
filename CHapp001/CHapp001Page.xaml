@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:CHapp001" x:Class="CHapp001.CHapp001Page">
+	<Label Text="Hi This is Bassam's first App" VerticalOptions="Center" HorizontalOptions="Center" />
+
+	<Button Text="Click Here" ></Button>
+
+</ContentPage>
